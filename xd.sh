@@ -10,6 +10,8 @@ yellow='\033[33;1m'
 sleep 1
 toilet -f big -F gay "T00Ls" | lolcat
 toilet -f big -F gay "hakikixd" 
+echo "masukan password anda" --- password hakiki
+echo "password salah"
 clear
 echo ""      
 echo "\033[32;1mAuthor : Mr.H4K1K1 " 
